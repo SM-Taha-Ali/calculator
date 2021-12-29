@@ -15,3 +15,5 @@ function calValue(){
 function delValue() {
     screen.value = screen.value.slice(0,-1);
 }
+
+// CREATED BY SM TAHA ALI
